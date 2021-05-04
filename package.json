@@ -1,0 +1,18 @@
+{
+  "name": "global-installs-are-bad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "do-grunt-stuff": "grunt moo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.4.0",
+    "grunt-cli": "^1.4.2",
+    "grunt-cowsay": "^0.1.2"
+  }
+}
